@@ -1,0 +1,140 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to right,blue,black);
+    font-family: cursive;
+}
+
+#navhover:hover{
+    color: white;
+}
+
+#give{
+    color: darkblue;
+    background-color:black;
+    font-size: 23px;
+    position: fixed;
+    top: 0;
+}
+#name{
+    margin-right: 32rem;
+    margin-left: 2rem;
+    margin-top: 7px;
+    color: white;
+}
+
+
+
+#name:hover{
+    color: blue;
+}
+
+img{
+    height: 380px;
+    width: 380px;
+    margin-right: 45px;
+}
+.homepage{
+    text-align: center;
+    margin-top: 7rem;
+}
+
+span{
+    text-decoration: underline;
+}
+
+.heading{
+    color: black;
+    display: inline-block;
+    margin-top: 18rem;
+    margin-left: 35rem;
+    border-bottom: 2px solid black;
+}
+
+.heading:hover{
+    color: white;
+}
+
+.aboutme{
+    color: whitesmoke;
+    text-align: justify;
+    text-transform: capitalize;
+    margin-top: 3rem;
+}
+.progress{
+    margin-left: 27rem;
+    height: 23px;
+    width: 25rem;
+}
+#pro{
+    text-decoration: underline;
+}
+
+.profilemain{
+    text-align: center;
+    margin-top: 3rem;
+}
+.profilehead{
+    text-decoration: underline;
+}
+
+#des{
+    color: white;
+    text-transform: capitalize;
+}
+
+.contactme{
+    text-align: center;
+    margin-top: 3rem;
+    text-decoration: underline;
+}
+
+.contact{
+    height: 200px;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 33.6rem;
+    margin-top: 2rem;
+}
+
+input{
+    margin-top: 1rem;
+}
+
+textarea{
+    margin-top: 1rem;
+}
+
+.butn{
+    align-items: center;
+    margin-left: 37.6rem;
+    margin-top: 1rem;
+    border-radius: 7px;
+    display: inline-block;
+}
+
+.skillcol{
+    text-align: center;
+}
+#prsk{
+    color: white;
+    margin-top: 2rem;
+}
+
+.ico{
+    text-align: center;
+    margin-top: 3rem;
+    word-spacing: 20px;
+    background-color: black;
+}
+
+.end{
+    text-align: center;
+    margin-top: 1rem;
+    color: white;
+    background-color: black;
+}
+.need{
+    background-color: black;
+}
